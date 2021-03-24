@@ -4,3 +4,10 @@ h1{
 p{
     background-color: brown;
 }
+div{
+    background-color:gold;
+    position: fixed;
+}
+h1:hover{
+color: chartreuse;
+}
